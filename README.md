@@ -93,8 +93,8 @@ Este GitHub pode conter:
 
 ## 📫 Contato | Contact
 
-- 💻 GitHub: **@Victorรyรtɛɱɗѳwɳ**
-- 🔐 Área: Cybersecurity & Software Services
+- 💻 GitHub: **@Victor-Dev**
+- 🔐 Área: Cybersecurity & Densenvolvimento de web
 
 ---
 
