@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre Mim | About Me
 
-🇧🇷 **PT-BR**  
+🇧🇷
 Sou pesquisador em **segurança cibernética**, com foco em **análise de vulnerabilidades**, **testes de intrusão controlados**, **OSINT**, **segurança web** e **suporte técnico avançado**.  
 Trabalho com metodologias ofensivas **de forma ética**, visando identificar falhas reais e fortalecer sistemas.
 
